@@ -6,6 +6,8 @@
 - I'm also looking for help with my open-source project. Here is a link https://github.com/VachaganGrigoryan/gamezone-app.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VachaganGrigoryan&langs_count=20&theme=tokyonight&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=VachaganGrigoryan&langs_count=20&theme=tokyonight&hide=html,css)
+
 Best,
 Vachagan
 
