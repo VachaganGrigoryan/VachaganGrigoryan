@@ -1,27 +1,32 @@
-### Hi 👋 My name is Vachagan Grigoryan
+## About Me
+I'm a passionate Python Developer with a strong focus on backend technologies, including Django, FastAPI, Strawberry GraphQL, Nest.js, and Express.js. My expertise extends to blockchain, fintech, e-commerce, and various other projects. I'm also well-versed in frontend development using Next.js and Tailwind CSS.
 
-- I'm Python Developer and working on NFT's project.
+## 🔧 Technologies & Tools
+- **Languages:** Python, TypeScript and a bit Go&Rust
+- **Backend Frameworks:** Django, FastAPI, Strawberry GraphQL, Nest.js, Express.js
+- **Frontend Frameworks:** Next.js, React
+- **Styling:** Tailwind CSS
+- **Areas of expertise:** Blockchain, Fintech, E-commerce
 
-- I have my own open-source projects, you can find it on my GitHub page.
-- I'm also looking for help with my open-source project. Here is a link https://github.com/VachaganGrigoryan/gamezone-app.
+## 🚀 Projects
+### Open Source Projects
+A project I'm actively working on. It's an open-source initiative, and I welcome contributions and feedback.
+- [g-zone](https://github.com/VachaganGrigoryan/g-zone)
+- [gamezone-app](https://github.com/VachaganGrigoryan/gamezone-app)
 
+### Personal Projects
+- [Jwt Berry](https://github.com/VachaganGrigoryan/jwtberry) - Python package that simplifies JWT (JSON Web Token) authentication for Django Strawberry GraphQL projects.
+- [Reliably Systems](https://github.com/VachaganGrigoryan/math-re-sys) - Math project related to Reliably Systems
+Feel free to explore more on [my GitHub](https://github.com/VachaganGrigoryan)!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VachaganGrigoryan&langs_count=20&theme=tokyonight&hide=html,css&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=VachaganGrigoryan&langs_count=20&theme=tokyonight&hide=html,css&layout=compact)
+## 🤝 Looking for Collaborators
+I'm actively seeking collaborators for my open-source project, [gamezone-app](https://github.com/VachaganGrigoryan/gamezone-app). If you're interested in game development or just passionate about coding, your contributions are more than welcome! Let's build something awesome together.
+
+## 📫 Get in Touch
+- **LinkedIn:** [Vachagan Grigoryan](https://www.linkedin.com/in/vachagan-grigoryan/)
+- **Telegram:** [@VachaganGrigoryan](https://t.me/VachaganGrigoryan)
+
+Looking forward to connecting with fellow developers and enthusiasts! ✨
 
 Best,
 Vachagan
-
-<!--
-**VachaganGrigoryan/VachaganGrigoryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
