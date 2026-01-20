@@ -1,0 +1,14 @@
+[
+  {
+    "repoName": "VachaganGrigoryan/vachagan.dev",
+    "customDescription": "Personal portfolio site and developer playground."
+  },
+  {
+    "repoName": "VachaganGrigoryan/home-lab",
+    "customDescription": "Self-hosted home lab setup (Docker, networking, observability)."
+  },
+  {
+    "repoName": "VachaganGrigoryan/blockchain-indexer",
+    "customDescription": "Backend services and indexer prototypes for Web3 data."
+  }
+]
