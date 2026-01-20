@@ -1,0 +1,87 @@
+[
+  {
+    "category": "Languages",
+    "items": [
+      "Python",
+      "TypeScript",
+      "Go",
+      "Rust"
+    ]
+  },
+  {
+    "category": "Backend & APIs",
+    "items": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "Django REST Framework",
+      "GraphQL",
+      "Strawberry GraphQL",
+      "NestJS",
+      "Express.js",
+      "gRPC"
+    ]
+  },
+  {
+    "category": "Data & Storage",
+    "items": [
+      "PostgreSQL",
+      "Redis",
+      "NoSQL",
+      "Firebase"
+    ]
+  },
+  {
+    "category": "Infra & DevOps",
+    "items": [
+      "Docker",
+      "Docker Compose",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Terraform",
+      "CI/CD",
+      "GitHub Actions",
+      "Linux"
+    ]
+  },
+  {
+    "category": "Messaging & Observability",
+    "items": [
+      "NATS",
+      "OpenTelemetry",
+      "Jaeger",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  {
+    "category": "Testing & Tooling",
+    "items": [
+      "Unit Testing",
+      "Git",
+      "Jira",
+      "Confluence"
+    ]
+  },
+  {
+    "category": "Blockchain",
+    "items": [
+      "Blockchain",
+      "Web3",
+      "Bitcoin",
+      "Algorand",
+      "Solana",
+      "EVM"
+    ]
+  },
+  {
+    "category": "Architecture",
+    "items": [
+      "Microservices",
+      "Distributed Systems",
+      "Software Architecture",
+      "API Development"
+    ]
+  }
+]
