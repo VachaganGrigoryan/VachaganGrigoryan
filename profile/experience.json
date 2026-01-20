@@ -40,6 +40,22 @@
     "techStack": []
   },
   {
+    "company": "Zestbloom Inc.",
+    "role": "PYTHON/DJANGO DEVELOPER",
+    "startDate": "2021-06",
+    "endDate": "2022-03",
+    "location": "New York, NY",
+    "summary": "Designed and Developed Rest APIs using Django/Rest Framework to create an NFT Market on Algorand Blockchain.",
+    "highlights": [
+      "Designed and Developed Rest APIs using Django/Rest Framework to create an NFT Market on Algorand Blockchain.",
+      "Implemented JWT authentication with Django Simple JWT and introduced customizations to enhance API security.",
+      "Integrated DigitalOcean Spaces as Main and Media cache storages for the NFT Market.",
+      "Developed Django Channels to build a robust Notifications System.",
+      "Implemented Celery tasks to track and parse NFTs from Algorand Blockchain using User Wallet addresses."
+    ],
+    "techStack": []
+  },
+  {
     "company": "CTRL Wallet (XDEFI)",
     "role": "Senior Backend | Blockchain Developer",
     "startDate": "2022-03",
@@ -76,21 +92,5 @@
       "Jira",
       "Confluence"
     ]
-  },
-  {
-    "company": "Zestbloom Inc.",
-    "role": "PYTHON/DJANGO DEVELOPER",
-    "startDate": "2021-06",
-    "endDate": "2022-03",
-    "location": "New York, NY",
-    "summary": "Designed and Developed Rest APIs using Django/Rest Framework to create an NFT Market on Algorand Blockchain.",
-    "highlights": [
-      "Designed and Developed Rest APIs using Django/Rest Framework to create an NFT Market on Algorand Blockchain.",
-      "Implemented JWT authentication with Django Simple JWT and introduced customizations to enhance API security.",
-      "Integrated DigitalOcean Spaces as Main and Media cache storages for the NFT Market.",
-      "Developed Django Channels to build a robust Notifications System.",
-      "Implemented Celery tasks to track and parse NFTs from Algorand Blockchain using User Wallet addresses."
-    ],
-    "techStack": []
   }
 ]
