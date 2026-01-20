@@ -1,0 +1,96 @@
+[
+  {
+    "company": "Independent",
+    "role": "Software Developer",
+    "startDate": "2017-02",
+    "endDate": "2019-04",
+    "location": "Remote",
+    "summary": "As a freelance software developer, I engaged with diverse projects, contributing my skills and expertise to various clients. Here's an overview of my responsibilities and accomplishments:",
+    "highlights": [
+      "Collaborated with clients to understand project requirements, goals, and deliverables.",
+      "Developed custom software solutions tailored to meet the specific needs and objectives of each client.",
+      "Worked independently to design, code, test, and deploy applications within established timelines.",
+      "Communicated regularly with clients to provide project updates, address queries, and incorporate feedback.",
+      "Ensured the security, performance, and scalability of the software solutions delivered."
+    ],
+    "techStack": [
+      "Languages: PHP",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "CMS: Wordpress",
+      "ModX",
+      "Libs&Frameworks: JQuery",
+      "Bootstrap",
+      "Databases: MySQL"
+    ]
+  },
+  {
+    "company": "Instigate Mobile CJSC",
+    "role": "SQA Python Engineer",
+    "startDate": "2019-09",
+    "endDate": "2021-05",
+    "location": "Remote",
+    "summary": "Developed an automation framework for testing REST and GraphQL APIs.",
+    "highlights": [
+      "Developed an automation framework for testing REST and GraphQL APIs.",
+      "Integrated TestRail, Allure, and Google Sheets as third-party services to generate comprehensive reports on testcase run results.",
+      "Created API mappings files to compare paths from two different JSON files effectively."
+    ],
+    "techStack": []
+  },
+  {
+    "company": "CTRL Wallet (XDEFI)",
+    "role": "Senior Backend | Blockchain Developer",
+    "startDate": "2022-03",
+    "endDate": "Present",
+    "location": "Remote",
+    "summary": "Designed, built, and delivered microservices using REST, GraphQL, and RPC technologies.",
+    "highlights": [
+      "Designed, built, and delivered microservices using REST, GraphQL, and RPC technologies.",
+      "Developed and maintained back-end software, ensuring code integrity and scalability.",
+      "Engineered high-performance applications through the creation of testable, reusable, and efficient code.",
+      "Spearheaded the development of a Blockchain Indexer and contributed to the implementation of WEB3 technology.",
+      "Resolved unique, large-scale, and highly complex technical problems to enhance system robustness.",
+      "Created a diverse set of unit tests to validate software functionality."
+    ],
+    "techStack": [
+      "Languages: Python",
+      "Typescript",
+      "Go",
+      "Frameworks: FastAPI",
+      "Flask",
+      "Strawberry GraphQL",
+      "NestJS",
+      "ExpressJs",
+      "Strapi",
+      "gRPC",
+      "Celery",
+      "BullMq",
+      "SQLAlchemy",
+      "TypeORM",
+      "PostgreSQL",
+      "Redis",
+      "Firebase",
+      "NATS",
+      "Jira",
+      "Confluence"
+    ]
+  },
+  {
+    "company": "Zestbloom Inc.",
+    "role": "PYTHON/DJANGO DEVELOPER",
+    "startDate": "2021-06",
+    "endDate": "2022-03",
+    "location": "New York, NY",
+    "summary": "Designed and Developed Rest APIs using Django/Rest Framework to create an NFT Market on Algorand Blockchain.",
+    "highlights": [
+      "Designed and Developed Rest APIs using Django/Rest Framework to create an NFT Market on Algorand Blockchain.",
+      "Implemented JWT authentication with Django Simple JWT and introduced customizations to enhance API security.",
+      "Integrated DigitalOcean Spaces as Main and Media cache storages for the NFT Market.",
+      "Developed Django Channels to build a robust Notifications System.",
+      "Implemented Celery tasks to track and parse NFTs from Algorand Blockchain using User Wallet addresses."
+    ],
+    "techStack": []
+  }
+]
