@@ -26,39 +26,32 @@
     ]
   },
   {
-    "company": "Zestbloom Inc.",
-    "role": "Python / Django Developer",
-    "startDate": "2021-06",
-    "endDate": "2022-03",
-    "location": "New York, NY",
-    "summary": "Designed and developed REST APIs using Django and Django REST Framework to build an NFT Marketplace on the Algorand blockchain.",
+    "company": "Instigate Mobile CJSC",
+    "role": "SQA Python Engineer",
+    "startDate": "2019-09",
+    "endDate": "2021-05",
+    "location": "Remote",
+    "summary": "Developed an automation framework for testing REST and GraphQL APIs.",
     "highlights": [
-      "Designed and developed REST APIs using Django REST Framework for an NFT Marketplace on the Algorand blockchain.",
-      "Implemented JWT authentication using Django Simple JWT with custom security enhancements.",
-      "Integrated DigitalOcean Spaces as primary and media cache storage for NFT assets.",
-      "Developed real-time notification systems using Django Channels.",
-      "Implemented Celery background tasks to track and parse NFTs from the Algorand blockchain using user wallet addresses."
+      "Developed an automation framework for testing REST and GraphQL APIs.",
+      "Integrated TestRail, Allure, and Google Sheets as third-party services to generate comprehensive reports on test case run results.",
+      "Created API mapping files to compare paths from two different JSON files effectively."
     ],
     "techStack": [
       "Python",
       "Java",
-      "Django",
-      "Django REST Framework",
-      "JWT",
-      "Django Simple JWT",
-      "Celery",
-      "Django Channels",
-      "Algorand Blockchain",
       "Object-Oriented Programming (OOP)",
       "Multiprocessing",
       "PyTest",
+      "REST APIs",
+      "GraphQL",
       "Linux",
       "Git",
       "Postman",
       "Jira",
       "TestRail",
       "Allure",
-      "DigitalOcean Spaces"
+      "Google Sheets API"
     ]
   },
   {
