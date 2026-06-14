@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Vogi",
+    "category": "Realtime chat and calling platform",
+    "description": "Realtime voice/chat platform: register, connect with other users, chat, send photos/video/voice messages, and make audio/video calls via WebRTC P2P, with an Android app integrated alongside the web app.",
+    "liveUrl": "https://chat.vachagan.dev",
+    "repos": [
+      { "label": "API", "url": "https://github.com/VachaganGrigoryan/VoiceChat" },
+      { "label": "Frontend", "url": "https://github.com/VachaganGrigoryan/web-voice-chat" }
+    ],
+    "techStack": ["Vite", "React", "TypeScript", "FastAPI", "Socket.IO", "MongoDB", "Redis", "RabbitMQ", "WebRTC"]
+  },
+  {
+    "title": "TiVi",
+    "category": "IPTV player and companion management platform",
+    "description": "IPTV ecosystem with a web companion app, Django backend, and an LG webOS TV application. Manage and sync playlists periodically and browse EPG program data for channels.",
+    "liveUrl": "https://tivi.vachagan.dev",
+    "isPrivateRepo": true,
+    "techStack": ["Next.js", "TypeScript", "Django", "PostgreSQL", "LG webOS", "Enact.js", "React"]
+  },
+  {
+    "title": "FastQL",
+    "category": "Python GraphQL framework",
+    "description": "Turns Python annotations into a complete GraphQL system: schema authoring, validation, execution, SDL, introspection, and framework integrations (FastAPI, Starlette, Django, Flask) through one coherent API.",
+    "liveUrl": "https://fastql.vachagan.dev",
+    "repos": [
+      { "label": "GitHub", "url": "https://github.com/MyGenX/FastQL" }
+    ],
+    "docs": [
+      { "label": "PyPI", "url": "https://pypi.org/project/mygenx-fastql/" }
+    ],
+    "techStack": ["Python", "GraphQL", "ASGI", "FastAPI", "Starlette", "Django", "Flask"]
+  },
+  {
+    "title": "TypeWall",
+    "category": "Python runtime validation library",
+    "description": "Strict, schema-first runtime validation library for Python with deterministic validation, structured errors, immutable/composable schemas, JSON Schema/OpenAPI output, a CLI, and optional FastAPI integration.",
+    "liveUrl": "https://typewall.mintlify.app",
+    "liveLabel": "Docs",
+    "repos": [
+      { "label": "GitHub", "url": "https://github.com/MyGenX/TypeWall" }
+    ],
+    "docs": [
+      { "label": "PyPI", "url": "https://pypi.org/project/typewall/" }
+    ],
+    "techStack": ["Python", "JSON Schema", "OpenAPI", "FastAPI"]
+  },
+  {
+    "title": "tasgi",
+    "category": "Experimental ASGI runtime",
+    "description": "\"Thread ASGI\" - an experimental ASGI-compatible framework/runtime that keeps transport and protocol handling on the event loop while allowing handler execution on the asyncio loop or a thread runtime.",
+    "liveUrl": "https://github.com/MyGenX/tasgi",
+    "liveLabel": "View on GitHub",
+    "docs": [
+      { "label": "PyPI", "url": "https://pypi.org/project/tasgi/" }
+    ],
+    "techStack": ["Python", "ASGI", "asyncio"]
+  },
+  {
+    "title": "pybi",
+    "category": "Project generator for Python templates",
+    "description": "Go-based CLI project generator for Python application templates, driven by external catalog repositories that define stacks, features, and renderable templates.",
+    "liveUrl": "https://github.com/MyGenX/pybi",
+    "liveLabel": "View on GitHub",
+    "docs": [
+      { "label": "Template Catalog", "url": "https://github.com/MyGenX/python-templates" }
+    ],
+    "techStack": ["Go", "Python", "GoReleaser", "GitHub Actions"]
+  },
+  {
+    "title": "Family Tree",
+    "category": "Family tree builder and visualization tool",
+    "description": "Build family trees, manage members and relationships, generate visualizations, and export the tree as PNG or PDF, with Supabase-backed auth (including Google) and data storage.",
+    "liveUrl": "https://fy-tree.vercel.app",
+    "isPrivateRepo": true,
+    "techStack": ["Vite", "React", "TypeScript", "Supabase"]
+  },
+  {
+    "title": "Resume Builder",
+    "category": "Privacy-first CV/resume builder",
+    "description": "Frontend-only CV builder focused on privacy: build resumes from multiple templates without sending personal data to a backend, edit locally, and export/save resume data as JSON.",
+    "liveUrl": "https://resume.vachagan.dev",
+    "isPrivateRepo": true,
+    "techStack": ["Vite", "React", "TypeScript"]
+  },
+  {
+    "title": "Freeshop",
+    "category": "Browser-based image editor",
+    "description": "Browser-based creative editing app inspired by Photoshop-like workflows, exploring lightweight in-browser alternatives for image and design editing.",
+    "liveUrl": "https://freestudio.vachagan.dev",
+    "isPrivateRepo": true,
+    "techStack": ["Vite", "React", "TypeScript"]
+  }
+]
