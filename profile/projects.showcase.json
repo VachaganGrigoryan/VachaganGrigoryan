@@ -110,6 +110,7 @@
     "category": "Family tree builder and visualization tool",
     "description": "Build family trees, manage members and relationships, generate visualizations, and export the tree as PNG or PDF, with Supabase-backed auth (including Google) and data storage.",
     "liveUrl": "https://fy-tree.vercel.app",
+    "previewImageUrl": "https://raw.githubusercontent.com/VachaganGrigoryan/VachaganGrigoryan/blackway/profile/assets/family-tree-preview.png",
     "isPrivateRepo": true,
     "highlights": [
       "Build and manage family trees with members and relationships",
