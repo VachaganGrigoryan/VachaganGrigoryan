@@ -1,0 +1,22 @@
+{
+  "email": "grigoryan@vachagan.dev",
+  "phone": "+374 77 116 777",
+  "location": "Yerevan, Armenia",
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/VachaganGrigoryan",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/vachagan-grigoryan",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Telegram",
+      "url": "https://t.me/VachaganGrigoryan",
+      "icon": "telegram"
+    }
+  ]
+}
