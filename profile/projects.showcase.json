@@ -8,6 +8,13 @@
       { "label": "API", "url": "https://github.com/VachaganGrigoryan/VoiceChat" },
       { "label": "Frontend", "url": "https://github.com/VachaganGrigoryan/web-voice-chat" }
     ],
+    "highlights": [
+      "Presence-based connections - users ping each other and connect only after acceptance",
+      "WebRTC P2P audio/video calls with TURN/coturn fallback",
+      "Redis-backed Socket.IO scaling for realtime messaging and presence",
+      "Media messages (photos, video, voice) via object storage and RabbitMQ background jobs",
+      "Companion Android app alongside the web client"
+    ],
     "techStack": ["Vite", "React", "TypeScript", "FastAPI", "Socket.IO", "MongoDB", "Redis", "RabbitMQ", "WebRTC"]
   },
   {
@@ -16,6 +23,12 @@
     "description": "IPTV ecosystem with a web companion app, Django backend, and an LG webOS TV application. Manage and sync playlists periodically and browse EPG program data for channels.",
     "liveUrl": "https://tivi.vachagan.dev",
     "isPrivateRepo": true,
+    "highlights": [
+      "Web companion app to manage and periodically sync IPTV playlists",
+      "EPG program data browsing for channels",
+      "Django + PostgreSQL backend with worker-driven sync jobs",
+      "Native LG webOS TV app built with Enact.js and React"
+    ],
     "techStack": ["Next.js", "TypeScript", "Django", "PostgreSQL", "LG webOS", "Enact.js", "React"]
   },
   {
@@ -28,6 +41,12 @@
     ],
     "docs": [
       { "label": "PyPI", "url": "https://pypi.org/project/mygenx-fastql/" }
+    ],
+    "highlights": [
+      "Code-first GraphQL schema authoring via Python annotations and decorators",
+      "Full execution engine: validation, SDL export, introspection, subscriptions, incremental delivery",
+      "DataLoader, custom directives, Relay support, and Apollo Federation v2",
+      "Drop-in integrations for FastAPI, Starlette, Django, and Flask with OpenTelemetry tracing"
     ],
     "techStack": ["Python", "GraphQL", "ASGI", "FastAPI", "Starlette", "Django", "Flask"]
   },
@@ -43,6 +62,12 @@
     "docs": [
       { "label": "PyPI", "url": "https://pypi.org/project/typewall/" }
     ],
+    "highlights": [
+      "Strict, schema-first runtime validation with deterministic, structured errors",
+      "Immutable, composable schemas with type-derived generation",
+      "JSON Schema / OpenAPI export plus a validation CLI",
+      "Optional FastAPI integration extra"
+    ],
     "techStack": ["Python", "JSON Schema", "OpenAPI", "FastAPI"]
   },
   {
@@ -53,6 +78,12 @@
     "liveLabel": "View on GitHub",
     "docs": [
       { "label": "PyPI", "url": "https://pypi.org/project/tasgi/" }
+    ],
+    "highlights": [
+      "ASGI-compatible runtime keeping transport/protocol I/O on the event loop",
+      "Handler execution on asyncio or a dedicated thread runtime",
+      "HTTP, WebSocket, routing, and OpenAPI support",
+      "Experimental concurrency model exploring event-loop safety with thread offloading"
     ],
     "techStack": ["Python", "ASGI", "asyncio"]
   },
@@ -65,6 +96,12 @@
     "docs": [
       { "label": "Template Catalog", "url": "https://github.com/MyGenX/python-templates" }
     ],
+    "highlights": [
+      "Go-based CLI that scaffolds Python project templates",
+      "Driven by external catalog repositories (python-templates) defining stacks and features",
+      "Catalog metadata via catalog.json, catalog.model.json, and catalog.full.json",
+      "Automated releases via GoReleaser and GitHub Actions"
+    ],
     "techStack": ["Go", "Python", "GoReleaser", "GitHub Actions"]
   },
   {
@@ -73,6 +110,12 @@
     "description": "Build family trees, manage members and relationships, generate visualizations, and export the tree as PNG or PDF, with Supabase-backed auth (including Google) and data storage.",
     "liveUrl": "https://fy-tree.vercel.app",
     "isPrivateRepo": true,
+    "highlights": [
+      "Build and manage family trees with members and relationships",
+      "Visual tree rendering with PNG and PDF export",
+      "Supabase-backed auth (including Google) and data storage",
+      "Deployed on Vercel"
+    ],
     "techStack": ["Vite", "React", "TypeScript", "Supabase"]
   },
   {
@@ -81,14 +124,24 @@
     "description": "Frontend-only CV builder focused on privacy: build resumes from multiple templates without sending personal data to a backend, edit locally, and export/save resume data as JSON.",
     "liveUrl": "https://resume.vachagan.dev",
     "isPrivateRepo": true,
+    "highlights": [
+      "Multiple CV templates with fully local editing - no backend involved",
+      "Export and re-import resume data as JSON",
+      "Privacy-first, client-side-only architecture"
+    ],
     "techStack": ["Vite", "React", "TypeScript"]
   },
   {
-    "title": "Freeshop",
+    "title": "Freestudio",
     "category": "Browser-based image editor",
     "description": "Browser-based creative editing app inspired by Photoshop-like workflows, exploring lightweight in-browser alternatives for image and design editing.",
     "liveUrl": "https://freestudio.vachagan.dev",
     "isPrivateRepo": true,
+    "highlights": [
+      "Browser-based, Photoshop-inspired image editing workflows",
+      "Fully client-side creative tooling experiment",
+      "Built with Vite, React, and TypeScript"
+    ],
     "techStack": ["Vite", "React", "TypeScript"]
   }
 ]
