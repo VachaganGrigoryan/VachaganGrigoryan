@@ -4,6 +4,7 @@
     "category": "Realtime chat and calling platform",
     "description": "Realtime voice/chat platform: register, connect with other users, chat, send photos/video/voice messages, and make audio/video calls via WebRTC P2P, with an Android app integrated alongside the web app.",
     "liveUrl": "https://chat.vachagan.dev",
+    "previewImageUrl": "https://raw.githubusercontent.com/VachaganGrigoryan/VachaganGrigoryan/blackway/profile/assets/vogi-preview.png",
     "repos": [
       { "label": "API", "url": "https://github.com/VachaganGrigoryan/VoiceChat" },
       { "label": "Frontend", "url": "https://github.com/VachaganGrigoryan/web-voice-chat" }
