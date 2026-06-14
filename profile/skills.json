@@ -83,5 +83,20 @@
       "Software Architecture",
       "API Development"
     ]
+  },
+  {
+    "category": "AI / LLM Engineering",
+    "items": [
+      "AI-Native Development",
+      "AI Spec-Driven Development",
+      "Model Context Protocol (MCP)",
+      "Retrieval-Augmented Generation (RAG)",
+      "AI Agent Development",
+      "LangChain",
+      "LangGraph",
+      "Claude Code",
+      "OpenAI Codex",
+      "LLM (Large Language Models)"
+    ]
   }
 ]

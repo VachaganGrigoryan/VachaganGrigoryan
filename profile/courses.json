@@ -47,5 +47,45 @@
     "credentialUrl": "https://www.credly.com/badges/dbfc6ffa-4c7c-44ce-9995-379ca88fc795",
     "status": "completed",
     "skills": ["Cybersecurity", "Security Fundamentals"]
+  },
+  {
+    "title": "AI Fluency: Framework & Foundations",
+    "provider": "Anthropic",
+    "issuer": "Anthropic",
+    "status": "completed",
+    "date": "2026-04",
+    "skills": ["AI-Native Development", "AI Spec-Driven Development"]
+  },
+  {
+    "title": "Claude 101",
+    "provider": "Anthropic",
+    "issuer": "Anthropic",
+    "status": "completed",
+    "date": "2026-05",
+    "skills": ["LLM (Large Language Models)", "AI-Native Development"]
+  },
+  {
+    "title": "Claude Code 101",
+    "provider": "Anthropic",
+    "issuer": "Anthropic",
+    "status": "completed",
+    "date": "2026-05",
+    "skills": ["Claude Code", "AI-Native Development"]
+  },
+  {
+    "title": "Introduction to Model Context Protocol",
+    "provider": "Anthropic",
+    "issuer": "Anthropic",
+    "status": "completed",
+    "date": "2026-05",
+    "skills": ["Model Context Protocol (MCP)"]
+  },
+  {
+    "title": "Building with the Claude API",
+    "provider": "Anthropic",
+    "issuer": "Anthropic",
+    "status": "completed",
+    "date": "2026-06",
+    "skills": ["Claude Code", "AI Agent Development", "LLM (Large Language Models)"]
   }
 ]
