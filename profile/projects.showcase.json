@@ -1,5 +1,22 @@
 [
   {
+    "title": "SpecStat",
+    "category": "GitHub-native spec visualization platform",
+    "description": "GitHub-native, frontend-only spec management and visualization tool built on the OpenSpec convention. Connect a repo and explore specs as Jira-like cards, relationship graphs, folder trees, and timelines — with GitHub as the only backend (no server, no database).",
+    "liveUrl": "https://specstat.vachagan.dev/",
+    "repos": [
+      { "label": "GitHub", "url": "https://github.com/MyGenX/SpecStat" }
+    ],
+    "highlights": [
+      "GitHub is the only backend - no custom server and no database",
+      "Read-only and purely additive: never modifies your OpenSpec files",
+      "GitHub Action parses and indexes specs in CI (init/sync/validate/baseline)",
+      "Stories, Proposals (Kanban), Graph, Tree, and Timeline views",
+      "Turborepo monorepo: Next.js web app, parser, GitHub client, and Action runtime"
+    ],
+    "techStack": ["Next.js", "TypeScript", "Turborepo", "GitHub Actions", "React", "Tailwind CSS", "Octokit", "Zod"]
+  },
+  {
     "title": "Vogi",
     "category": "Realtime chat and calling platform",
     "description": "Realtime voice/chat platform: register, connect with other users, chat, send photos/video/voice messages, and make audio/video calls via WebRTC P2P, with an Android app integrated alongside the web app.",
