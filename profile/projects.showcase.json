@@ -4,6 +4,7 @@
     "category": "GitHub-native spec visualization platform",
     "description": "GitHub-native, frontend-only spec management and visualization tool built on the OpenSpec convention. Connect a repo and explore specs as Jira-like cards, relationship graphs, folder trees, and timelines — with GitHub as the only backend (no server, no database).",
     "liveUrl": "https://specstat.vachagan.dev/",
+    "previewImageUrl": "https://raw.githubusercontent.com/VachaganGrigoryan/VachaganGrigoryan/blackway/profile/assets/specstat-preview.png",
     "repos": [
       { "label": "GitHub", "url": "https://github.com/MyGenX/SpecStat" }
     ],
