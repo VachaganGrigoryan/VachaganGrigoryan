@@ -12,6 +12,7 @@
     "category": "Backend & APIs",
     "items": [
       "FastAPI",
+      "Pydantic",
       "Flask",
       "Django",
       "Django REST Framework",
@@ -85,6 +86,14 @@
     ]
   },
   {
+    "category": "Desktop & WebAssembly",
+    "items": [
+      "Rust",
+      "egui",
+      "WebAssembly"
+    ]
+  },
+  {
     "category": "AI / LLM Engineering",
     "items": [
       "AI-Native Development",
@@ -92,6 +101,7 @@
       "Model Context Protocol (MCP)",
       "Retrieval-Augmented Generation (RAG)",
       "AI Agent Development",
+      "Custom Agent Skills",
       "LangChain",
       "LangGraph",
       "Claude Code",
