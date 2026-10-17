@@ -9,42 +9,89 @@
     {
       "title": "5D Painting",
       "url": "https://p5d.notallow.cc",
-      "text": "Rust desktop and WebAssembly studio that turns photos into diamond-painting and cross-stitch patterns: thread-catalog color matching (CIEDE2000, dithering), PDF/SVG/Excel/OXS export, and an axum/Postgres account API."
+      "text": "Rust desktop + WebAssembly studio turning photos into diamond-painting and cross-stitch patterns, with thread matching and PDF/SVG/OXS export.",
+      "tags": [
+        "Rust",
+        "egui",
+        "WASM",
+        "axum"
+      ]
     },
     {
       "title": "Resources for Mac",
       "url": "https://resources.vachagan.dev",
-      "text": "Native macOS system monitor in Rust/egui with an interactive app/process overview, per-resource pages, a menu bar extra, and Homebrew distribution."
+      "text": "Native macOS system monitor with an interactive process overview, menu bar stats, and a desktop widget.",
+      "tags": [
+        "Rust",
+        "egui",
+        "macOS"
+      ]
     },
     {
       "title": "FastQL",
       "url": "https://github.com/MyGenX/FastQL",
-      "text": "Open-source, code-first Python GraphQL framework with its own execution engine, DI, subscriptions, Federation v2, and FastAPI/Django/Flask integrations."
+      "text": "Code-first Python GraphQL framework with its own engine, subscriptions, Federation v2, and FastAPI/Django/Flask integrations.",
+      "tags": [
+        "Python",
+        "GraphQL",
+        "ASGI"
+      ]
     },
     {
       "title": "TypeWall",
       "url": "https://github.com/MyGenX/TypeWall",
-      "text": "Strict, schema-first runtime validation library for Python with structured errors and JSON Schema/OpenAPI output."
+      "text": "Strict, schema-first runtime validation for Python with structured errors and JSON Schema/OpenAPI output.",
+      "tags": [
+        "Python",
+        "JSON Schema"
+      ]
     },
     {
       "title": "SpecStat",
       "url": "https://specstat.vachagan.dev",
-      "text": "Serverless OpenSpec UI that turns specs into Kanban boards and dependency graphs, with GitHub Actions as the only backend."
+      "text": "Serverless OpenSpec UI: specs as Kanban boards and dependency graphs, with GitHub Actions as the only backend.",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "GH Actions"
+      ]
     },
     {
       "title": "Vogi",
       "url": "https://chat.vachagan.dev",
-      "text": "Realtime chat and calling platform with WebRTC calls, presence, and media messaging on FastAPI, Socket.IO, and Redis; Rust microservices backend in progress."
+      "text": "Realtime chat and calling platform with WebRTC calls, presence, and media messaging; Rust backend in progress.",
+      "tags": [
+        "FastAPI",
+        "WebRTC",
+        "Redis",
+        "Rust"
+      ]
     },
     {
       "title": "Cloud Integration (Azure)",
-      "text": "Cloud DevOps for a Dutch ICT provider (11/2024 – 05/2025): Azure, Terraform, Kubernetes, CI/CD, and Prometheus/Grafana monitoring for new cloud products."
+      "text": "Cloud DevOps for a Dutch ICT provider (2024–2025): Azure infrastructure, Terraform, Kubernetes, and monitoring.",
+      "tags": [
+        "Azure",
+        "Terraform",
+        "K8s"
+      ]
     },
     {
       "title": "Self-Hosted Home Lab",
-      "text": "Docker-based home server with CI/CD auto-deploys, WireGuard VPN, Cloudflare-fronted reverse proxy, private DNS, and OpenTelemetry/Jaeger observability."
+      "text": "Docker home server with CI/CD auto-deploys, WireGuard VPN, Cloudflare proxy, and OpenTelemetry observability.",
+      "tags": [
+        "Docker",
+        "WireGuard",
+        "OTel"
+      ]
     }
   ],
-  "courseIssuers": ["Anthropic", "Cisco Networking Academy"],
-  "languages": ["English: Upper-Intermediate", "Armenian: Native"]
+  "courseIssuers": [
+    "Anthropic",
+    "Cisco Networking Academy"
+  ],
+  "languages": [
+    "English: Upper-Intermediate",
+    "Armenian: Native"
+  ]
 }
