@@ -1,5 +1,87 @@
 [
   {
+    "title": "5D Painting",
+    "category": "Diamond-painting and cross-stitch pattern studio",
+    "description": "Rust desktop and browser studio that turns photographs and illustrations into printable diamond-painting or cross-stitch patterns: maps colors to DMC, Anchor, or Sulky thread catalogs, reduces and smooths the palette, previews tiled print pages, and exports PDF, PNG, SVG, Excel, or OXS charts.",
+    "liveUrl": "https://p5d.notallow.cc",
+    "previewImageUrl": "https://raw.githubusercontent.com/VachaganGrigoryan/VachaganGrigoryan/blackway/profile/assets/5d-painting-preview.png",
+    "isPrivateRepo": true,
+    "docs": [
+      {
+        "label": "Download",
+        "url": "https://github.com/VachaganGrigoryan/p5d-releases/releases/latest"
+      }
+    ],
+    "highlights": [
+      "Perceptual color matching against DMC (489), Anchor (442), and Sulky (333) thread catalogs, or the image's own colors",
+      "Custom pipeline: MMCQ/RgbQuant reduction, CIE76/CIE94/CIEDE2000 color distance, and five dithering algorithms",
+      "CAD-style editor with stone-level drawing tools, selections, colors as layers, and painter progress tracking",
+      "Actual-size tiled PDF, PNG/SVG, Excel, and OXS exports with material estimates per color",
+      "Six-crate Cargo workspace: native egui studio, the same studio in WebAssembly, an axum/Postgres account API, and a static site"
+    ],
+    "techStack": [
+      "Rust",
+      "egui",
+      "WebAssembly",
+      "axum",
+      "PostgreSQL",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "title": "Resources for Mac",
+    "category": "macOS system monitor",
+    "description": "Native macOS system monitor written in Rust with egui, inspired by GNOME Resources: an interactive bubble overview of apps and processes, per-resource pages, a menu bar extra, and a desktop widget.",
+    "liveUrl": "https://resources.vachagan.dev",
+    "previewImageUrl": "https://raw.githubusercontent.com/VachaganGrigoryan/VachaganGrigoryan/blackway/profile/assets/resources-mac-preview.png",
+    "repos": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/VachaganGrigoryan/resources-mac"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Homebrew",
+        "url": "https://github.com/VachaganGrigoryan/homebrew-tap"
+      }
+    ],
+    "highlights": [
+      "Overview page: every app as a bubble around \"This Mac\", sized by memory or CPU, with launch relationships and process trees",
+      "Processor, memory, Apple Silicon GPU, drives, network, and battery pages",
+      "Menu bar stats and a live-graph desktop widget that keep running when the window is closed",
+      "End / Kill / Halt / Continue processes from Apps and Processes views",
+      "Universal dmg released via GitHub Actions and installable with Homebrew (brew install --cask VachaganGrigoryan/tap/resources-mac)"
+    ],
+    "techStack": [
+      "Rust",
+      "egui",
+      "macOS",
+      "GitHub Actions",
+      "Homebrew"
+    ]
+  },
+  {
+    "title": "Formula",
+    "category": "Interactive formula visualization workbench",
+    "description": "CAD-style formula workbench in Rust (egui/eframe) that runs natively and in the browser via WebAssembly. Every formula is a tool placed on a drafting canvas as a live, interactive viewport, with reference docs and ready-to-run visualization code.",
+    "liveUrl": "https://github.com/VachaganGrigoryan/Formula",
+    "liveLabel": "View on GitHub",
+    "highlights": [
+      "Live viewports for projections, Bézier curves, Fourier epicycles, Lissajous figures, Mandelbrot, Perlin flow fields, Game of Life, Lorenz attractor, and more",
+      "Inspector with properties, reference documentation, and visualization code in Python, TypeScript, and Rust",
+      "Equations export to LaTeX with current parameter values or to a ready-to-run Jupyter notebook",
+      "Sorting visualizer with audio, using Web Audio in the browser and cpal on desktop",
+      "Single codebase for the desktop app and the WebAssembly build"
+    ],
+    "techStack": [
+      "Rust",
+      "egui",
+      "eframe",
+      "WebAssembly"
+    ]
+  },
+  {
     "title": "SpecStat",
     "category": "GitHub-native spec visualization platform",
     "description": "GitHub-native, frontend-only spec management and visualization tool built on the OpenSpec convention. Connect a repo and explore specs as Jira-like cards, relationship graphs, folder trees, and timelines — with GitHub as the only backend (no server, no database).",
@@ -32,7 +114,8 @@
       "WebRTC P2P audio/video calls with TURN/coturn fallback",
       "Redis-backed Socket.IO scaling for realtime messaging and presence",
       "Media messages (photos, video, voice) via object storage and RabbitMQ background jobs",
-      "Companion Android app alongside the web client"
+      "Companion Android app alongside the web client",
+      "Rust microservices backend in progress, wire-compatible with the web client and moving storage from MongoDB to PostgreSQL"
     ],
     "techStack": ["Vite", "React", "TypeScript", "FastAPI", "Socket.IO", "MongoDB", "Redis", "RabbitMQ", "WebRTC"]
   },
@@ -88,6 +171,26 @@
       "Optional FastAPI integration extra"
     ],
     "techStack": ["Python", "JSON Schema", "OpenAPI", "FastAPI"]
+  },
+  {
+    "title": "Imperator",
+    "category": "Rules compiler for AI coding agents",
+    "description": "Open-source, stack-aware collection of reusable rules for AI coding agents. Rules live in one source tree and compile into each agent's native layout for Claude Code, Cursor, Codex, and Gemini.",
+    "liveUrl": "https://github.com/MyGenX/Imperator",
+    "liveLabel": "View on GitHub",
+    "highlights": [
+      "Global behavior rules that cut wasted tokens and keep agents in scope",
+      "Domain rules per stack (Python, TypeScript, Postgres, Docker, and more) and role-based specialist subagents",
+      "Compiles one rule policy into .claude/, .cursor/rules/, AGENTS.md + .codex/, or GEMINI.md + .gemini/",
+      "CLI with init, profiles, compile, doctor, and clean commands"
+    ],
+    "techStack": [
+      "Python",
+      "Claude Code",
+      "Cursor",
+      "Codex",
+      "Gemini CLI"
+    ]
   },
   {
     "title": "tasgi",
