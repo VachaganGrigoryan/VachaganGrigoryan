@@ -1,0 +1,50 @@
+{
+  "name": "Vachagan Grigoryan",
+  "headline": "Senior Python Developer · Backend & Distributed Systems · AI-Native Development",
+  "summary": [
+    "Senior Python Developer with 7+ years of backend experience, currently at EPAM Systems building Python and TypeScript services for healthcare platforms with REST and GraphQL APIs on AWS. Previously spent over three years on the CTRL Wallet (XDEFI) multichain wallet, designing microservices, blockchain indexers, and Web3 infrastructure, with earlier work in fintech, NFT marketplaces, and e-commerce.",
+    "Works AI-native: ships through spec-driven workflows with Claude Code and other coding agents, writes custom agent skills and rules, and integrates MCP, RAG, and agentic pipelines. Hands-on with AWS and Azure, Docker, Kubernetes, CI/CD, and a self-hosted home lab, and builds native desktop and WebAssembly apps in Rust."
+  ],
+  "projects": [
+    {
+      "title": "5D Painting",
+      "url": "https://p5d.notallow.cc",
+      "text": "Rust desktop and WebAssembly studio that turns photos into diamond-painting and cross-stitch patterns: thread-catalog color matching (CIEDE2000, dithering), PDF/SVG/Excel/OXS export, and an axum/Postgres account API."
+    },
+    {
+      "title": "Resources for Mac",
+      "url": "https://resources.vachagan.dev",
+      "text": "Native macOS system monitor in Rust/egui with an interactive app/process overview, per-resource pages, a menu bar extra, and Homebrew distribution."
+    },
+    {
+      "title": "FastQL",
+      "url": "https://github.com/MyGenX/FastQL",
+      "text": "Open-source, code-first Python GraphQL framework with its own execution engine, DI, subscriptions, Federation v2, and FastAPI/Django/Flask integrations."
+    },
+    {
+      "title": "TypeWall",
+      "url": "https://github.com/MyGenX/TypeWall",
+      "text": "Strict, schema-first runtime validation library for Python with structured errors and JSON Schema/OpenAPI output."
+    },
+    {
+      "title": "SpecStat",
+      "url": "https://specstat.vachagan.dev",
+      "text": "Serverless OpenSpec UI that turns specs into Kanban boards and dependency graphs, with GitHub Actions as the only backend."
+    },
+    {
+      "title": "Vogi",
+      "url": "https://chat.vachagan.dev",
+      "text": "Realtime chat and calling platform with WebRTC calls, presence, and media messaging on FastAPI, Socket.IO, and Redis; Rust microservices backend in progress."
+    },
+    {
+      "title": "Cloud Integration (Azure)",
+      "text": "Cloud DevOps for a Dutch ICT provider (11/2024 – 05/2025): Azure, Terraform, Kubernetes, CI/CD, and Prometheus/Grafana monitoring for new cloud products."
+    },
+    {
+      "title": "Self-Hosted Home Lab",
+      "text": "Docker-based home server with CI/CD auto-deploys, WireGuard VPN, Cloudflare-fronted reverse proxy, private DNS, and OpenTelemetry/Jaeger observability."
+    }
+  ],
+  "courseIssuers": ["Anthropic", "Cisco Networking Academy"],
+  "languages": ["English: Upper-Intermediate", "Armenian: Native"]
+}

@@ -84,23 +84,48 @@
     ]
   },
   {
-    "company": "CTRL Wallet (XDEFI)",
-    "role": "Senior Backend | Blockchain Developer",
-    "startDate": "2022-03",
-    "endDate": "2026-03",
+    "company": "S-Pro",
+    "role": "Python Developer (part-time)",
+    "startDate": "2022-04",
+    "endDate": "2022-12",
     "location": "Remote",
-    "summary": "Designed, built, and delivered microservices using REST, GraphQL, and RPC technologies.",
+    "summary": "Part-time backend development with Django for blockchain (EVM) and finance applications, focused on APIs, data handling, and scalable services.",
     "highlights": [
-      "Designed, built, and delivered microservices using REST, GraphQL, and RPC technologies.",
-      "Developed and maintained back-end software, ensuring code integrity and scalability.",
-      "Engineered high-performance applications through the creation of testable, reusable, and efficient code.",
-      "Spearheaded the development of a Blockchain Indexer and contributed to the implementation of WEB3 technology.",
-      "Resolved unique, large-scale, and highly complex technical problems to enhance system robustness.",
-      "Created a diverse set of unit tests to validate software functionality."
+      "Developed backend APIs with Django and Django REST Framework.",
+      "Built EVM blockchain integrations and on-chain data processing.",
+      "Contributed to an invoice management platform for a finance product.",
+      "Improved API performance and optimized database queries.",
+      "Shipped services with Docker and GitLab CI/CD."
+    ],
+    "techStack": [
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "PostgreSQL",
+      "Web3 (EVM)",
+      "Docker",
+      "GitLab CI/CD"
+    ]
+  },
+  {
+    "company": "Devico",
+    "client": "CTRL Wallet (XDEFI)",
+    "role": "Senior Backend | Blockchain Developer",
+    "startDate": "2022-12",
+    "endDate": "2026-03",
+    "location": "EU / Remote",
+    "summary": "Senior engineer on the CTRL Wallet (formerly XDEFI) multichain wallet, designing and scaling distributed microservices and Web3 infrastructure across cross-functional teams.",
+    "highlights": [
+      "Designed, built, and delivered high-performance microservices using REST, GraphQL, and gRPC.",
+      "Led development of a high-throughput blockchain indexer and core Web3 infrastructure components.",
+      "Architected modular, testable codebases and resolved large-scale technical bottlenecks to improve system robustness.",
+      "Optimized CI/CD pipelines with GitHub Actions, significantly speeding up deployments.",
+      "Ran scalable backend infrastructure with Docker, NATS, PostgreSQL, and Redis on AWS.",
+      "Contributed to architecture design and product strategy for large-scale backend systems."
     ],
     "techStack": [
       "Languages: Python",
-      "Typescript",
+      "TypeScript",
       "Go",
       "Frameworks: FastAPI",
       "Flask",
@@ -117,6 +142,9 @@
       "Redis",
       "Firebase",
       "NATS",
+      "AWS",
+      "GitHub Actions",
+      "Docker",
       "Jira",
       "Confluence"
     ]

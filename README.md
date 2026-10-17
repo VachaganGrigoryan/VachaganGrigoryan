@@ -10,7 +10,7 @@
 ## About Me
 I'm **Vachagan Grigoryan**, a **Senior Python Developer** at **EPAM Systems**, based in **Yerevan, Armenia**. Since April 2026 I've been building backend services for healthcare platforms: Python and TypeScript services with REST and GraphQL APIs on AWS, built with an AI-native engineering workflow.
 
-I have 7+ years of backend experience with Python and TypeScript, using FastAPI, Django, Strawberry GraphQL, NestJS, and Express.js, and hands-on work in Go and Rust. Before EPAM, I spent four years at **CTRL Wallet (XDEFI)** building microservices, blockchain indexers, and Web3 infrastructure. Earlier work covers fintech, NFT marketplaces, and e-commerce. I care about clean architecture, automation, and performant, maintainable systems.
+I have 7+ years of backend experience with Python and TypeScript, using FastAPI, Django, Strawberry GraphQL, NestJS, and Express.js, and hands-on work in Go and Rust. Before EPAM, I spent over three years at **Devico** on the **CTRL Wallet (XDEFI)** multichain wallet, building microservices, blockchain indexers, and Web3 infrastructure. Earlier work covers fintech, NFT marketplaces, and e-commerce. I care about clean architecture, automation, and performant, maintainable systems.
 
 On the infrastructure side, I've designed and run environments on AWS and Azure, automated delivery with CI/CD, and managed containerized workloads with Docker and Kubernetes. I also run a fully self-hosted home lab. Outside work, I build native desktop and WebAssembly apps in Rust with egui.
 
@@ -83,7 +83,8 @@ AI-native development is central to how I work. I ship software through spec-dri
 | Period | Company | Role |
 | --- | --- | --- |
 | Apr 2026 – Present | **EPAM Systems** | Senior Python Developer (healthcare) |
-| Mar 2022 – Mar 2026 | **CTRL Wallet (XDEFI)** | Senior Backend / Blockchain Developer |
+| Dec 2022 – Mar 2026 | **Devico** · client: CTRL Wallet (XDEFI) | Senior Backend / Blockchain Developer |
+| Apr 2022 – Dec 2022 | **S-Pro** | Python Developer (part-time) |
 | Jun 2021 – Mar 2022 | **Zestbloom Inc.** | Python / Django Developer |
 | Sep 2019 – May 2021 | **Instigate Mobile CJSC** | SQA Python Engineer |
 | Feb 2017 – Apr 2019 | **Independent** | Software Developer |
