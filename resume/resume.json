@@ -1,8 +1,8 @@
 {
   "name": "Vachagan Grigoryan",
-  "headline": "Senior Python Developer · Backend & Distributed Systems · AI-Native Development",
+  "headline": "Senior Software Developer · Backend & Distributed Systems · AI-Native Development",
   "summary": [
-    "Senior Python Developer with 7+ years of backend experience, currently at EPAM Systems building Python and TypeScript services for healthcare platforms with REST and GraphQL APIs on AWS. Previously spent over three years on the CTRL Wallet (XDEFI) multichain wallet, designing microservices, blockchain indexers, and Web3 infrastructure, with earlier work in fintech, NFT marketplaces, and e-commerce.",
+    "Senior Software Developer with 7+ years of backend experience, currently at EPAM Systems building Python and TypeScript services for healthcare platforms with REST and GraphQL APIs on AWS. Previously spent over three years on the CTRL Wallet (XDEFI) multichain wallet, designing microservices, blockchain indexers, and Web3 infrastructure, with earlier work in fintech, NFT marketplaces, and e-commerce.",
     "Works AI-native: ships through spec-driven workflows with Claude Code and other coding agents, writes custom agent skills and rules, and integrates MCP, RAG, and agentic pipelines. Hands-on with AWS and Azure, Docker, Kubernetes, CI/CD, and a self-hosted home lab, and builds native desktop and WebAssembly apps in Rust."
   ],
   "projects": [
