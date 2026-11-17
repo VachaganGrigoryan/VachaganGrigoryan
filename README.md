@@ -1,6 +1,8 @@
 # Hi, I'm Vachagan 👋
 
-**Senior Python Developer @ EPAM Systems** · Backend & distributed systems · AI-native development · Yerevan, Armenia 🇦🇲
+**Senior Software Developer @ EPAM Systems** · Backend & distributed systems · AI-native development · Yerevan, Armenia 🇦🇲
+
+**Founder of [NeoSymbian](https://github.com/NeoSymbian)** · Open-source Symbian for modern hardware · Systems programming in C++ & Rust
 
 [![Website](https://img.shields.io/badge/vachagan.dev-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vachagan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vachagan-grigoryan/)
@@ -8,18 +10,37 @@
 [![Email](https://img.shields.io/badge/grigoryan@vachagan.dev-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:grigoryan@vachagan.dev)
 
 ## About Me
-I'm **Vachagan Grigoryan**, a **Senior Python Developer** at **EPAM Systems**, based in **Yerevan, Armenia**. Since April 2026 I've been building backend services for healthcare platforms: Python and TypeScript services with REST and GraphQL APIs on AWS, built with an AI-native engineering workflow.
+I'm **Vachagan Grigoryan**, a **Senior Software Developer** at **EPAM Systems**, based in **Yerevan, Armenia**. Since April 2026 I've been building backend services for healthcare platforms: Python and TypeScript services with REST and GraphQL APIs on AWS, built with an AI-native engineering workflow.
 
 I have 7+ years of backend experience with Python and TypeScript, using FastAPI, Django, Strawberry GraphQL, NestJS, and Express.js, and hands-on work in Go and Rust. Before EPAM, I spent over three years at **Devico** on the **CTRL Wallet (XDEFI)** multichain wallet, building microservices, blockchain indexers, and Web3 infrastructure. Earlier work covers fintech, NFT marketplaces, and e-commerce. I care about clean architecture, automation, and performant, maintainable systems.
 
-On the infrastructure side, I've designed and run environments on AWS and Azure, automated delivery with CI/CD, and managed containerized workloads with Docker and Kubernetes. I also run a fully self-hosted home lab. Outside work, I build native desktop and WebAssembly apps in Rust with egui.
+On the infrastructure side, I've designed and run environments on AWS and Azure, automated delivery with CI/CD, and managed containerized workloads with Docker and Kubernetes. I also run a fully self-hosted home lab. Outside work, I build native desktop and WebAssembly apps in Rust with egui, and I lead **NeoSymbian**, a systems project in C++ and Rust (see below).
 
 AI-native development is central to how I work. I ship software through spec-driven workflows with Claude Code and other coding agents, write custom agent skills and rules that encode team conventions, integrate Model Context Protocol (MCP) servers, and build agentic and RAG systems with LangChain and LangGraph.
 
+## 📱 NeoSymbian · Open-source Symbian for modern hardware
+<a href="https://github.com/NeoSymbian"><img src="profile/assets/neosymbian-preview.png" alt="NeoSymbian UI design mockups: Phone, Contacts, Browser, Settings and the Armenian keyboard" /></a>
+<p><sub>UI design mockups (v2) from the NeoSymbian design canvas.</sub></p>
+
+**[NeoSymbian](https://github.com/NeoSymbian)** is a volunteer, non-commercial project I founded and maintain. It brings the open-source **Symbian^3 (EKA2)** code released in 2010 back to modern hardware. The first target is the **Google Pixel 3a XL**.
+
+- **Kernel (C++):** the 2010 EKA2 kernel ported to **64-bit ARM (AArch64)**, running on all 8 cores of the real phone, with new drivers for the touchscreen, storage, modem and Wi-Fi.
+- **User side:** the original 2010 Symbian user side runs unchanged in 32-bit mode, with the file server, the shell and the socket server.
+- **Rust:** a Rust SDK for the Symbian user side ([e32-rs](https://github.com/NeoSymbian/e32-rs)) and a new touch UI server and apps in Rust and Slint ([neoui](https://github.com/NeoSymbian/neoui)).
+
+What already works on the phone:
+- It is installed and boots by itself, with A/B slots and a hash-checked system drive.
+- **LTE calls** with two-way audio, SMS, and a Phone, Contacts and Messages app written in Rust.
+- **Wi-Fi** with WPA2, and the internet through a Rust IP stack on smoltcp. Unchanged 2010 programs connect through the original socket API.
+- A system keyboard in English, Armenian and Russian.
+
+[Documentation](https://github.com/NeoSymbian/docs) · [Roadmap](https://github.com/NeoSymbian/docs/blob/main/roadmap.md) · [Kernel](https://github.com/NeoSymbian/kernel) · [Rust UI](https://github.com/NeoSymbian/neoui) · [Build system](https://github.com/NeoSymbian/build)
+
 ## 💼 Currently
-- 🏥 **Senior Python Developer @ [EPAM Systems](https://www.epam.com)** (Apr 2026 – present), backend services for the healthcare domain
+- 🏥 **Senior Software Developer @ [EPAM Systems](https://www.epam.com)** (Apr 2026 – present), backend services for the healthcare domain
 - 🐍 Python (FastAPI, Pydantic) and TypeScript services with **REST & GraphQL** APIs, running on **AWS**
 - 🤖 **AI-native development**: coding agents, custom agent skills, MCP tooling, and LLM-powered features
+- 📱 **Founder & maintainer of [NeoSymbian](https://github.com/NeoSymbian)**: Symbian on modern hardware, in C++ and Rust
 - 🦀 Side projects: Rust desktop/WebAssembly apps and open-source Python tooling under [MyGenX](https://github.com/MyGenX)
 
 ## 🚀 Featured Projects
@@ -82,7 +103,7 @@ AI-native development is central to how I work. I ship software through spec-dri
 ## 🧭 Experience
 | Period | Company | Role |
 | --- | --- | --- |
-| Apr 2026 – Present | **EPAM Systems** | Senior Python Developer (healthcare) |
+| Apr 2026 – Present | **EPAM Systems** | Senior Software Developer (healthcare) |
 | Dec 2022 – Mar 2026 | **Devico** · client: CTRL Wallet (XDEFI) | Senior Backend / Blockchain Developer |
 | Apr 2022 – Dec 2022 | **S-Pro** | Python Developer (part-time) |
 | Jun 2021 – Mar 2022 | **Zestbloom Inc.** | Python / Django Developer |
@@ -91,17 +112,18 @@ AI-native development is central to how I work. I ship software through spec-dri
 
 ## 🔧 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,rust,go,fastapi,django,graphql,nestjs,postgres,redis,docker,kubernetes,aws,nextjs,react,tailwind&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,cpp,go,fastapi,django,graphql,nestjs,postgres,redis,docker,kubernetes,aws,nextjs,react,tailwind&perline=8" alt="Tech stack icons" />
 </p>
 
 | Area | Tools |
 | --- | --- |
-| **Languages** | Python, TypeScript, Rust, Go |
+| **Languages** | Python, TypeScript, Rust, C++, Go |
 | **Backend & APIs** | FastAPI, Pydantic, Django / DRF, Strawberry GraphQL, NestJS, Express.js, gRPC |
 | **Data & Messaging** | PostgreSQL, Redis, NoSQL, NATS, RabbitMQ, Celery |
 | **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Linux |
 | **Observability** | OpenTelemetry, Jaeger, Prometheus, Grafana |
 | **AI / LLM** | Claude Code, Custom Agent Skills, MCP, RAG, AI Agents, LangChain, LangGraph, OpenAI Codex |
+| **Systems** | Symbian EKA2 kernel, AArch64, embedded Rust (`no_std`), Slint, QEMU |
 | **Desktop & Web** | egui, WebAssembly, Next.js, React, Tailwind CSS |
 | **Domains** | Healthcare, Fintech, Blockchain / Web3, E-commerce |
 

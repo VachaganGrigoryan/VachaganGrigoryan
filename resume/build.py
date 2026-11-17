@@ -183,7 +183,7 @@ def render() -> str:
             if s["icon"] in ICONS
         ),
     ]
-    # Highlight the first part of the headline ("Senior Python Developer").
+    # Highlight the first part of the headline ("Senior Software Developer").
     first, _, rest = r["headline"].partition(" · ")
     headline = f"<b>{escape(first)}</b>" + (f" · {escape(rest)}" if rest else "")
 
